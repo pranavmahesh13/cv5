@@ -1,0 +1,231 @@
+
+#title {
+  background-color: #e0ebe8;
+  padding: 2% 3% 9%;
+}
+
+
+
+
+
+.cont1{
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+
+.navbar-brand{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 3rem;
+  font-weight: bolder;
+
+}
+
+.fab{
+  color: #1e836c;
+}
+
+ .navbar-dark .navbar-brand{
+  color: #1e836c;
+  font-weight: lighter;
+}
+
+.navbar-dark .navbar-brand:hover {
+  color: #fff;
+}
+
+.nav-link {
+  margin-left: 5%;
+}
+
+.socicons {
+  margin-right: 19px;
+}
+
+.iconns {
+  margin-right: 29px;
+}
+.row {
+  text-align: center;
+  background-color: #ddf3f5;
+  padding-top: 5%;
+  padding-bottom: 1%;
+
+}
+
+.cloud-img {
+  margin-bottom: 0%;
+}
+
+
+.leftt {
+  margin-left: 0;
+}
+
+.cloud {
+  width: 35%;
+}
+
+.love{
+  width: 20%;
+}
+
+.invite {
+  width: 30%;
+  margin-bottom:0;
+  position: relative;
+  margin-bottom: 5%;
+  margin-left: 80%;
+  color: #ff8e6e;
+
+}
+
+.hello{
+  font-family: 'Clicker Script', cursive;
+  font-size: 10rem;
+  color: #ff8e6e;
+  font-weight: bolder;
+}
+.invite{
+  transform: rotate(360deg);
+}
+
+h2 {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+
+
+/* Introduction section */
+#Intro {
+  background-color: #ececec;
+  padding: 2% 3% 9%;
+
+}
+
+.intfluid {
+  padding-top: 8%;
+  padding-left: 9%;
+  padding-right: 9%;
+  text-align: center;
+}
+.introw {
+background-color: #fff;
+margin-top: 0;
+padding-top: 2%;
+padding-bottom: 1%;
+border: solid 1px;
+
+
+}
+.myselfint{
+  text-align: center;
+  padding-top: 5%;
+  margin-left: 50%;
+  color: #89c9b8;
+}
+
+.myint{
+  padding: 0 2%;
+}
+
+.btnn{
+  font-size: 1rem;
+  color: #000;
+  margin-left: 90%;
+  margin-top: 3%;
+}
+
+ .hi {
+   font-size: 2.5rem;
+ }
+.intro-text {
+  font-size: 50px;
+  font-weight: bolder;
+
+}
+
+.student {
+  width: 85%;
+  margin-bottom: 13%;
+  margin-left: 0;
+  margin-top: 0;
+  border-radius: 100%;
+  height: 14rem;
+  padding-bottom: 3%;
+  margin-right: 10%;
+}
+
+.img-cont-text {
+  font-weight: bolder;
+}
+.intp {
+  font-size: 1rem;
+  font-family: 'Ubuntu', sans-serif;
+  color: #a2d5f2;
+}
+
+/* Talents section */
+
+#Talents {
+  background-color: #f7d6bf;
+  padding: 3% 3% 9%;
+
+}
+.tint {
+  background-color: #fff;
+  padding: 0;
+}
+.talent {
+  background-color: #f7d6bf;
+  padding-top: 3%;
+  padding-left: 9%;
+  padding-right: 9%;
+}
+
+.talent-list{
+  background-color: #fff;
+  margin-top: 3%;
+}
+
+.self{
+  padding-top: 1%;
+  padding-bottom: 5%;
+  margin-bottom: 5%;
+}
+
+.docpng{
+  width: 10%;
+  margin-bottom: 2%;
+}
+
+.code {
+  width: 58%;
+  padding-bottom: 3%;
+}
+
+.mic {
+  width: 55%;
+  padding-bottom: 3%;
+}
+
+.fitness {
+  width: 55%;
+  padding-bottom: 3%;
+}
+
+h3 {
+  color: #45b29a;
+}
+.grasspng{
+  width: 10%;
+}
+.grasspn{
+  width: 25%;
+}
+.grassrow{
+  margin-left: 5%;
+}
